@@ -1,0 +1,24 @@
+cd .cache/zsh/history
+ls
+cd
+vi .config/zsh/.zshrc
+ls
+la
+vi .zprofile
+cd .cache
+la
+ls
+cd zsh
+ls
+rm -rf history
+touch history
+touch .zlua
+cd
+ls
+vi .cache/zsh/history
+clear
+vi .cache/zsh/history
+cd Documents
+cd
+vi .cache/zsh/.zlua
+vi .cache/zsh/history
